@@ -8,7 +8,6 @@ print(r.status_code)
 print(r.json()["greeting"])
 
 
-
 data = {
     "age": 37,
     "workclass": "Private",
